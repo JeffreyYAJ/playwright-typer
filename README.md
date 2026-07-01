@@ -1,2 +1,1 @@
 # playwright-typer
-# playwright-typer
